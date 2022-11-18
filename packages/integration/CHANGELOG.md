@@ -1,5 +1,14 @@
 # @backstage/integration
 
+## 1.4.1
+
+### Patch Changes
+
+- 34b039ca9f: Added `integrations.github.apps.allowedInstallationOwners` to the configuration schema.
+- Updated dependencies
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+
 ## 1.4.0
 
 ### Minor Changes

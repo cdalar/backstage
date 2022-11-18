@@ -1,5 +1,33 @@
 # @backstage/plugin-catalog-backend
 
+## 1.6.0
+
+### Minor Changes
+
+- 16891a212c: Added new `POST /entities/by-refs` endpoint, which allows you to efficiently
+  batch-fetch entities by their entity ref. This can be useful e.g. in graphql
+  resolvers or similar contexts where you need to fetch many entities at the same
+  time.
+
+### Patch Changes
+
+- d8593ce0e6: Do not use deprecated `LocationSpec` from the `@backstage/plugin-catalog-node` package
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/types@1.0.2
+  - @backstage/backend-common@0.16.1
+  - @backstage/integration@1.4.1
+  - @backstage/plugin-catalog-node@1.2.2
+  - @backstage/backend-plugin-api@0.1.5
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/plugin-catalog-common@1.0.9
+  - @backstage/plugin-permission-common@0.7.2
+  - @backstage/plugin-permission-node@0.7.2
+  - @backstage/plugin-scaffolder-common@1.2.3
+  - @backstage/plugin-search-common@1.1.2
+
 ## 1.5.1
 
 ### Patch Changes

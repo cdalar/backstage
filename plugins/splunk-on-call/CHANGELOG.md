@@ -1,5 +1,17 @@
 # @backstage/plugin-splunk-on-call
 
+## 0.4.1
+
+### Patch Changes
+
+- cb716004ef: Internal refactor to improve tests
+- Updated dependencies
+  - @backstage/core-components@0.12.1
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/plugin-catalog-react@1.2.2
+  - @backstage/catalog-model@1.1.4
+  - @backstage/theme@0.2.16
+
 ## 0.4.0
 
 ### Minor Changes

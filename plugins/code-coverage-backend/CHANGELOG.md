@@ -1,5 +1,17 @@
 # @backstage/plugin-code-coverage-backend
 
+## 0.2.5
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/backend-common@0.16.1
+  - @backstage/integration@1.4.1
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+
 ## 0.2.4
 
 ### Patch Changes

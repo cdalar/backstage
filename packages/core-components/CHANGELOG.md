@@ -1,5 +1,18 @@
 # @backstage/core-components
 
+## 0.12.1
+
+### Patch Changes
+
+- 19356df560: Updated dependency `zen-observable` to `^0.9.0`.
+- dfc8edf9c5: Internal refactor to avoid usage of deprecated symbols.
+- Updated dependencies
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/theme@0.2.16
+  - @backstage/version-bridge@1.0.2
+
 ## 0.12.0
 
 ### Minor Changes

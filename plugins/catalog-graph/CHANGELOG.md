@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog-graph
 
+## 0.2.24
+
+### Patch Changes
+
+- cb716004ef: Internal refactor to improve tests
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/core-components@0.12.1
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/plugin-catalog-react@1.2.2
+  - @backstage/catalog-model@1.1.4
+  - @backstage/theme@0.2.16
+
 ## 0.2.23
 
 ### Patch Changes

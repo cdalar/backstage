@@ -1,5 +1,16 @@
 # @backstage/core-app-api
 
+## 1.2.1
+
+### Patch Changes
+
+- 19356df560: Updated dependency `zen-observable` to `^0.9.0`.
+- Updated dependencies
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/types@1.0.2
+  - @backstage/config@1.0.5
+  - @backstage/version-bridge@1.0.2
+
 ## 1.2.0
 
 ### Minor Changes

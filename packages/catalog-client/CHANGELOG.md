@@ -1,5 +1,17 @@
 # @backstage/catalog-client
 
+## 1.2.0
+
+### Minor Changes
+
+- 00d90b520a: **BREAKING PRODUCERS**: Added a new `getEntitiesByRefs` endpoint to `CatalogApi`, for efficient batch fetching of entities by ref.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.1.4
+  - @backstage/errors@1.1.4
+
 ## 1.1.2
 
 ### Patch Changes

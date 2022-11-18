@@ -1,5 +1,22 @@
 # @backstage/plugin-user-settings
 
+## 0.6.0
+
+### Minor Changes
+
+- 29bdda5442: Added the ability to fully customize settings page. Deprecated UserSettingsTab in favour of SettingsLayout.Route
+
+### Patch Changes
+
+- 19356df560: Updated dependency `zen-observable` to `^0.9.0`.
+- Updated dependencies
+  - @backstage/core-app-api@1.2.1
+  - @backstage/core-components@0.12.1
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/types@1.0.2
+  - @backstage/errors@1.1.4
+  - @backstage/theme@0.2.16
+
 ## 0.5.1
 
 ### Patch Changes

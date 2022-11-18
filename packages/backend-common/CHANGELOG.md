@@ -1,5 +1,18 @@
 # @backstage/backend-common
 
+## 0.16.1
+
+### Patch Changes
+
+- dfc8edf9c5: Internal refactor to avoid usage of deprecated symbols.
+- Updated dependencies
+  - @backstage/types@1.0.2
+  - @backstage/integration@1.4.1
+  - @backstage/cli-common@0.1.10
+  - @backstage/config@1.0.5
+  - @backstage/config-loader@1.1.7
+  - @backstage/errors@1.1.4
+
 ## 0.16.0
 
 ### Minor Changes

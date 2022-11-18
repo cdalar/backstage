@@ -1,5 +1,32 @@
 # @backstage/plugin-scaffolder
 
+## 1.9.0
+
+### Minor Changes
+
+- ddd1c3308d: Implement Custom Field Explorer to view and play around with available installed custom field extensions
+- adb1b01e32: Adds the ability to supply a `transformErrors` function to the `Stepper` for `/next`
+
+### Patch Changes
+
+- 19356df560: Updated dependency `zen-observable` to `^0.9.0`.
+- a63e2df559: fixed `headerOptions` not passed to `TemplatePage` component
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/core-components@0.12.1
+  - @backstage/core-plugin-api@1.1.1
+  - @backstage/types@1.0.2
+  - @backstage/plugin-catalog-react@1.2.2
+  - @backstage/integration@1.4.1
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/integration-react@1.1.7
+  - @backstage/theme@0.2.16
+  - @backstage/plugin-catalog-common@1.0.9
+  - @backstage/plugin-permission-react@0.4.8
+  - @backstage/plugin-scaffolder-common@1.2.3
+
 ## 1.8.0
 
 ### Minor Changes

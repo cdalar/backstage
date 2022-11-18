@@ -1,5 +1,13 @@
 # @backstage/plugin-rollbar-backend
 
+## 0.1.36
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.16.1
+  - @backstage/config@1.0.5
+
 ## 0.1.35
 
 ### Patch Changes

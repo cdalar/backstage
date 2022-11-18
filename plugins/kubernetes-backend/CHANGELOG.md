@@ -1,5 +1,18 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.8.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/backend-common@0.16.1
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/plugin-auth-node@0.2.8
+  - @backstage/plugin-kubernetes-common@0.4.5
+
 ## 0.8.0
 
 ### Minor Changes

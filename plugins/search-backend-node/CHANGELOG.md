@@ -1,5 +1,19 @@
 # @backstage/plugin-search-backend-node
 
+## 1.0.5
+
+### Patch Changes
+
+- a962ce0551: Wait for indexer initialization before finalizing indexing.
+- 81b1e7b0fe: Updated indexer and decorator base classes to take advantage of features introduced in Node.js v16; be sure you are running a [supported version of Node.js](https://backstage.io/docs/releases/v1.8.0#node-16-and-18).
+- Updated dependencies
+  - @backstage/backend-common@0.16.1
+  - @backstage/backend-tasks@0.3.8
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/plugin-permission-common@0.7.2
+  - @backstage/plugin-search-common@1.1.2
+
 ## 1.0.4
 
 ### Patch Changes

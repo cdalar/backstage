@@ -1,5 +1,15 @@
 # @backstage/plugin-events-backend
 
+## 0.1.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.16.1
+  - @backstage/backend-plugin-api@0.1.5
+  - @backstage/config@1.0.5
+  - @backstage/plugin-events-node@0.1.1
+
 ## 0.1.0
 
 ### Minor Changes

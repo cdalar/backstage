@@ -1,5 +1,26 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.8.1
+
+### Patch Changes
+
+- cb716004ef: Internal refactor to improve tests
+- 19356df560: Updated dependency `zen-observable` to `^0.9.0`.
+- Updated dependencies
+  - @backstage/catalog-client@1.2.0
+  - @backstage/plugin-catalog-backend@1.6.0
+  - @backstage/types@1.0.2
+  - @backstage/backend-common@0.16.1
+  - @backstage/integration@1.4.1
+  - @backstage/plugin-catalog-node@1.2.2
+  - @backstage/backend-plugin-api@0.1.5
+  - @backstage/backend-tasks@0.3.8
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+  - @backstage/errors@1.1.4
+  - @backstage/plugin-auth-node@0.2.8
+  - @backstage/plugin-scaffolder-common@1.2.3
+
 ## 1.8.0
 
 ### Minor Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-graphql
 
+## 0.3.16
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/types@1.0.2
+  - @backstage/catalog-model@1.1.4
+  - @backstage/config@1.0.5
+
 ## 0.3.15
 
 ### Patch Changes
